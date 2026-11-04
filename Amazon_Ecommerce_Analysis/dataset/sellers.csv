@@ -1,0 +1,501 @@
+seller_id,seller_name,seller_rating,seller_city,seller_state,seller_country,seller_join_date,verified,total_products
+1,Crown Retail,3.76,London,London,UK,2021-08-29,True,17
+2,Spark Mart,4.33,Shanghai,Shanghai,China,2015-04-06,True,22
+3,Pioneer Exports,4.31,Ahmedabad,Gujarat,India,2017-11-12,True,7
+4,Cobalt Exports,4.6,Hyderabad,Telangana,India,2017-04-29,True,23
+5,Falcon Marketplace,3.97,Chicago,Illinois,USA,2022-09-02,True,16
+6,Apex Retail,3.99,Bhopal,Madhya Pradesh,India,2022-01-18,True,16
+7,Urban Mart,3.15,Bangalore,Karnataka,India,2024-04-16,True,18
+8,Ridge Retail,4.58,Los Angeles,California,USA,2015-11-27,True,6
+9,Prime Exports,4.03,Chicago,Illinois,USA,2019-05-24,True,14
+10,Indigo Trading Co,3.9,London,London,UK,2015-04-24,True,14
+11,Metro Online,3.95,Bhopal,Madhya Pradesh,India,2017-04-11,True,16
+12,Spark Supplies,4.44,Seattle,Washington,USA,2020-04-06,True,20
+13,Topaz Supplies,4.25,Mumbai,Maharashtra,India,2015-04-11,True,22
+14,Indigo Wholesale,3.99,Pune,Maharashtra,India,2017-01-26,True,17
+15,Spark Enterprises,3.96,Lucknow,Uttar Pradesh,India,2021-10-08,True,24
+16,Topaz Distributors,4.58,Kolkata,West Bengal,India,2020-09-03,True,22
+17,Falcon Wholesale,3.79,Hyderabad,Telangana,India,2017-04-18,True,14
+18,Coastal Hub,4.14,Hyderabad,Telangana,India,2021-02-19,True,16
+19,Ridge Store,4.11,Nagpur,Maharashtra,India,2023-06-07,True,16
+20,Quartz Online,4.36,Delhi,Delhi,India,2015-01-25,True,22
+21,Crown Wholesale,5.0,Chicago,Illinois,USA,2023-05-24,True,14
+22,Harbor Store,4.68,Bangalore,Karnataka,India,2022-04-09,True,17
+23,Vortex Hub,4.29,London,London,UK,2018-07-18,False,17
+24,Meadow Mart,4.55,Nagpur,Maharashtra,India,2016-08-14,False,18
+25,Vertex Retail,3.8,Shenzhen,Guangdong,China,2024-12-20,True,19
+26,Metro Supplies,3.57,Manchester,Manchester,UK,2018-07-04,True,18
+27,Falcon Hub,3.66,Surat,Gujarat,India,2015-12-19,False,14
+28,Orion Wholesale,3.85,Ahmedabad,Gujarat,India,2016-01-03,True,13
+29,Diamond Brands,4.43,Jaipur,Rajasthan,India,2023-10-29,True,20
+30,Bright Distributors,4.56,Nagpur,Maharashtra,India,2021-04-15,True,16
+31,Urban Brands,4.12,Nagpur,Maharashtra,India,2023-05-29,True,15
+32,Indigo Brands,3.95,Jaipur,Rajasthan,India,2022-08-07,True,16
+33,Vertex Marketplace,3.6,London,London,UK,2020-08-01,False,17
+34,Bright Trading Co,4.64,London,London,UK,2025-02-18,True,15
+35,Global Enterprises,4.67,Shanghai,Shanghai,China,2018-12-10,True,20
+36,Maple Store,3.84,Chandigarh,Chandigarh,India,2020-09-30,True,16
+37,Metro Brands,3.78,London,London,UK,2023-08-22,False,13
+38,Jade Supplies,4.17,Lucknow,Uttar Pradesh,India,2021-06-10,True,13
+39,Metro Hub,4.8,Delhi,Delhi,India,2023-12-22,True,11
+40,Vivid Wholesale,4.34,Delhi,Delhi,India,2021-01-05,True,12
+41,Vertex Mart,4.04,Jaipur,Rajasthan,India,2022-05-04,True,17
+42,Amber Distributors,4.18,Seattle,Washington,USA,2015-06-24,True,10
+43,Lumen Online,3.63,Kolkata,West Bengal,India,2017-05-16,True,16
+44,Horizon Store,4.62,Indore,Madhya Pradesh,India,2018-01-05,True,15
+45,Global Exports,3.99,Chennai,Tamil Nadu,India,2015-10-31,False,17
+46,Anchor Store,3.6,Chicago,Illinois,USA,2017-06-04,True,16
+47,Crest Wholesale,4.12,Shanghai,Shanghai,China,2016-01-20,True,18
+48,Cedar Distributors,4.03,Seattle,Washington,USA,2017-11-23,True,23
+49,Pioneer Trading Co,4.4,Ahmedabad,Gujarat,India,2021-08-15,False,19
+50,Falcon Supplies,4.66,New York,New York,USA,2018-10-19,False,20
+51,Crown Enterprises,4.75,Delhi,Delhi,India,2018-11-09,False,15
+52,Bright Supplies,4.27,London,London,UK,2017-03-07,False,23
+53,Silver Marketplace,4.1,Manchester,Manchester,UK,2017-10-12,True,20
+54,Maple Wholesale,4.05,Bangalore,Karnataka,India,2024-10-03,True,16
+55,Diamond Trading Co,3.14,Austin,Texas,USA,2021-10-01,False,15
+56,Harbor Hub,4.34,Jaipur,Rajasthan,India,2021-05-06,True,22
+57,Crown Brands,4.38,Mumbai,Maharashtra,India,2016-10-13,True,8
+58,Topaz Store,4.13,Chicago,Illinois,USA,2022-08-05,True,22
+59,Lumen Distributors,3.82,Toronto,Ontario,Canada,2016-09-13,True,20
+60,Nova Wholesale,4.76,Hyderabad,Telangana,India,2018-12-14,False,24
+61,Diamond Retail,4.19,Pune,Maharashtra,India,2025-04-22,False,19
+62,Quartz Store,3.53,Shanghai,Shanghai,China,2021-08-31,True,18
+63,Topaz Enterprises,4.24,Los Angeles,California,USA,2020-10-19,True,17
+64,Orion Hub,4.03,Los Angeles,California,USA,2022-02-17,True,11
+65,Zenith Hub,4.39,London,London,UK,2023-10-12,True,23
+66,Galaxy Marketplace,4.1,London,London,UK,2023-01-30,True,18
+67,Horizon Distributors,4.34,Kolkata,West Bengal,India,2017-05-21,True,21
+68,Jade Trading Co,4.2,Toronto,Ontario,Canada,2015-05-03,True,22
+69,Ridge Distributors,3.89,Mumbai,Maharashtra,India,2018-04-14,True,12
+70,Bluebird Traders,4.51,New York,New York,USA,2017-10-15,True,14
+71,Zenith Mart,4.76,Nagpur,Maharashtra,India,2017-03-13,True,12
+72,Global Marketplace,4.76,Delhi,Delhi,India,2024-10-26,True,11
+73,Falcon Exports,4.0,Bangalore,Karnataka,India,2024-02-16,True,21
+74,Vertex Supplies,4.57,New York,New York,USA,2018-04-12,True,9
+75,Jade Enterprises,4.88,Chicago,Illinois,USA,2021-10-29,True,17
+76,Nimbus Online,4.55,Chennai,Tamil Nadu,India,2019-02-13,True,22
+77,Bright Store,4.46,Chicago,Illinois,USA,2024-07-10,True,16
+78,Ridge Wholesale,3.71,Los Angeles,California,USA,2019-10-12,True,13
+79,Anchor Supplies,4.45,Kolkata,West Bengal,India,2017-10-04,True,12
+80,Indigo Mart,4.14,Shanghai,Shanghai,China,2017-07-27,True,13
+81,Zenith Wholesale,4.06,Shenzhen,Guangdong,China,2020-11-05,True,19
+82,Golden Trading Co,4.42,Manchester,Manchester,UK,2017-09-26,True,14
+83,Crown Mart,4.75,Chandigarh,Chandigarh,India,2021-02-01,False,13
+84,Vertex Distributors,5.0,Ahmedabad,Gujarat,India,2024-05-08,True,14
+85,Crest Trading Co,3.62,Mumbai,Maharashtra,India,2019-02-28,True,16
+86,Crest Mart,4.68,Ahmedabad,Gujarat,India,2017-04-14,True,11
+87,Vertex Exports,4.45,Mumbai,Maharashtra,India,2025-05-22,True,14
+88,Summit Mart,4.69,London,London,UK,2020-04-22,True,14
+89,Apex Hub,4.29,Bangalore,Karnataka,India,2015-12-12,True,21
+90,Vertex Trading Co,4.54,Lucknow,Uttar Pradesh,India,2015-06-29,True,19
+91,Spark Brands,4.27,Ahmedabad,Gujarat,India,2016-02-22,True,19
+92,Urban Trading Co,3.71,New York,New York,USA,2021-07-14,True,23
+93,Quartz Marketplace,4.49,Chennai,Tamil Nadu,India,2023-04-02,True,17
+94,Platinum Mart,3.82,Seattle,Washington,USA,2019-05-25,True,16
+95,Granite Mart,4.51,New York,New York,USA,2015-08-30,True,18
+96,Orion Brands,4.71,Hyderabad,Telangana,India,2018-12-22,False,15
+97,Coastal Wholesale,3.85,Bhopal,Madhya Pradesh,India,2025-05-17,True,10
+98,Diamond Hub,4.26,Bhopal,Madhya Pradesh,India,2020-07-05,True,20
+99,Summit Brands,4.55,Shanghai,Shanghai,China,2025-02-10,True,15
+100,Lumen Traders,4.1,London,London,UK,2023-12-19,True,13
+101,Cedar Exports,5.0,Delhi,Delhi,India,2015-02-13,True,16
+102,Orion Mart,4.24,Lucknow,Uttar Pradesh,India,2022-07-04,True,17
+103,Prime Trading Co,3.81,Kolkata,West Bengal,India,2022-02-06,True,20
+104,Pioneer Wholesale,4.59,Chandigarh,Chandigarh,India,2020-08-04,True,15
+105,Spark Online,4.15,Pune,Maharashtra,India,2017-10-12,True,17
+106,Vertex Online,4.5,Ahmedabad,Gujarat,India,2021-09-04,False,16
+107,Orion Retail,4.02,Chicago,Illinois,USA,2016-02-29,False,17
+108,Anchor Hub,4.51,London,London,UK,2019-07-12,True,15
+109,Granite Online,3.83,Mumbai,Maharashtra,India,2019-09-22,False,15
+110,Urban Hub,3.99,New York,New York,USA,2024-12-07,True,7
+111,Summit Enterprises,4.45,Indore,Madhya Pradesh,India,2024-02-14,False,21
+112,Sunrise Wholesale,4.91,Indore,Madhya Pradesh,India,2017-09-28,True,23
+113,Diamond Store,4.62,Jaipur,Rajasthan,India,2020-03-19,True,21
+114,Indigo Exports,4.22,Bhopal,Madhya Pradesh,India,2016-11-10,True,20
+115,Nimbus Exports,3.82,Chicago,Illinois,USA,2024-07-03,True,17
+116,Horizon Mart,4.75,New York,New York,USA,2024-01-25,True,17
+117,Urban Retail,4.32,Surat,Gujarat,India,2018-02-09,False,13
+118,Onyx Trading Co,4.3,Seattle,Washington,USA,2021-08-27,False,9
+119,Onyx Distributors,4.77,Delhi,Delhi,India,2021-05-05,True,18
+120,Summit Marketplace,4.2,Delhi,Delhi,India,2016-08-04,True,14
+121,Galaxy Hub,4.29,New York,New York,USA,2022-12-10,True,14
+122,Bright Retail,4.27,Los Angeles,California,USA,2020-08-13,True,13
+123,Royal Traders,4.27,Los Angeles,California,USA,2023-02-09,True,12
+124,Vertex Brands,3.86,Austin,Texas,USA,2020-07-10,True,19
+125,Cedar Traders,3.48,Ahmedabad,Gujarat,India,2015-01-03,True,19
+126,Vortex Traders,4.34,Seattle,Washington,USA,2018-05-18,True,19
+127,Nimbus Marketplace,3.84,Bhopal,Madhya Pradesh,India,2015-03-16,True,10
+128,Pinnacle Distributors,4.07,Seattle,Washington,USA,2024-09-04,True,16
+129,Global Store,4.42,Jaipur,Rajasthan,India,2024-02-25,True,11
+130,Pioneer Brands,3.69,Indore,Madhya Pradesh,India,2023-08-30,True,17
+131,Zenith Online,5.0,London,London,UK,2018-03-15,True,21
+132,Topaz Traders,4.94,Lucknow,Uttar Pradesh,India,2015-08-09,True,15
+133,Diamond Marketplace,4.21,Mumbai,Maharashtra,India,2024-02-22,True,17
+134,Orion Traders,4.38,Seattle,Washington,USA,2024-11-11,True,14
+135,Elite Enterprises,4.02,Chicago,Illinois,USA,2015-11-22,True,17
+136,Highland Store,3.53,Nagpur,Maharashtra,India,2020-01-23,True,17
+137,Golden Hub,3.89,Pune,Maharashtra,India,2015-09-21,True,17
+138,Amber Store,4.86,Chicago,Illinois,USA,2022-12-03,True,17
+139,Lumen Trading Co,4.33,Austin,Texas,USA,2022-12-23,True,13
+140,Nimbus Hub,3.56,Mumbai,Maharashtra,India,2016-05-03,True,7
+141,Zenith Brands,4.35,Chicago,Illinois,USA,2019-12-13,True,19
+142,Pioneer Store,4.86,Hyderabad,Telangana,India,2020-09-22,True,17
+143,Orion Exports,3.91,Hyderabad,Telangana,India,2017-10-05,True,18
+144,Nova Marketplace,3.69,Chicago,Illinois,USA,2024-02-01,True,16
+145,Echo Hub,4.11,Kolkata,West Bengal,India,2019-05-29,True,13
+146,Galaxy Online,4.95,Jaipur,Rajasthan,India,2017-03-16,True,19
+147,Summit Traders,3.68,Jaipur,Rajasthan,India,2020-08-13,True,10
+148,Silver Hub,4.16,London,London,UK,2022-08-08,True,8
+149,Pure Supplies,4.82,Jaipur,Rajasthan,India,2017-02-04,True,18
+150,Echo Store,4.73,Chennai,Tamil Nadu,India,2018-03-31,True,16
+151,Onyx Online,4.22,Pune,Maharashtra,India,2025-05-13,True,23
+152,Amber Wholesale,5.0,Chicago,Illinois,USA,2021-10-08,False,14
+153,Sunrise Traders,4.12,Chicago,Illinois,USA,2019-07-25,True,15
+154,Indigo Enterprises,4.22,Bangalore,Karnataka,India,2020-05-22,True,22
+155,Highland Marketplace,3.44,Chicago,Illinois,USA,2016-04-05,False,17
+156,Horizon Wholesale,4.71,Chicago,Illinois,USA,2017-05-04,True,13
+157,Apex Store,4.47,Chennai,Tamil Nadu,India,2018-07-10,True,18
+158,Apex Distributors,4.23,Nagpur,Maharashtra,India,2021-02-15,True,19
+159,Cobalt Mart,4.01,Kolkata,West Bengal,India,2017-05-25,False,15
+160,Orion Distributors,4.28,Manchester,Manchester,UK,2017-04-17,True,15
+161,Granite Marketplace,3.95,Toronto,Ontario,Canada,2015-09-28,False,17
+162,Royal Wholesale,4.06,Shanghai,Shanghai,China,2021-07-28,True,18
+163,Royal Exports,4.34,Mumbai,Maharashtra,India,2017-05-20,True,10
+164,Granite Supplies,4.43,Lucknow,Uttar Pradesh,India,2024-06-06,False,11
+165,Onyx Supplies,4.42,Manchester,Manchester,UK,2023-12-15,True,24
+166,Indigo Traders,3.92,Ahmedabad,Gujarat,India,2015-09-27,False,14
+167,Prime Hub,3.48,Indore,Madhya Pradesh,India,2017-06-24,False,19
+168,Coastal Store,3.71,Chandigarh,Chandigarh,India,2021-12-19,True,15
+169,Metro Retail,4.82,Ahmedabad,Gujarat,India,2017-03-25,True,15
+170,Prime Wholesale,4.02,Manchester,Manchester,UK,2016-05-18,True,13
+171,Spark Hub,4.2,Lucknow,Uttar Pradesh,India,2024-09-28,True,15
+172,Jade Store,4.57,Bangalore,Karnataka,India,2020-12-12,False,10
+173,Cedar Brands,4.1,Nagpur,Maharashtra,India,2019-12-04,True,19
+174,Pure Retail,4.54,Chicago,Illinois,USA,2023-03-04,True,19
+175,Crest Store,4.09,Hyderabad,Telangana,India,2023-05-30,False,16
+176,Orion Marketplace,3.95,Delhi,Delhi,India,2016-12-25,False,10
+177,Coastal Exports,4.96,Bhopal,Madhya Pradesh,India,2016-01-04,False,15
+178,Galaxy Traders,4.63,Lucknow,Uttar Pradesh,India,2019-06-28,True,19
+179,Elite Retail,4.68,Indore,Madhya Pradesh,India,2019-05-31,True,16
+180,Silver Retail,3.72,Shenzhen,Guangdong,China,2019-11-12,True,10
+181,Anchor Brands,3.92,Los Angeles,California,USA,2022-08-05,True,11
+182,Onyx Exports,4.2,Shanghai,Shanghai,China,2022-01-05,True,15
+183,Prime Distributors,4.08,Manchester,Manchester,UK,2025-04-01,True,12
+184,Pure Marketplace,4.52,Bhopal,Madhya Pradesh,India,2016-01-10,True,15
+185,Crown Exports,4.45,Lucknow,Uttar Pradesh,India,2019-03-12,True,21
+186,Galaxy Store,4.74,Surat,Gujarat,India,2018-07-14,True,11
+187,Granite Distributors,4.03,Manchester,Manchester,UK,2023-12-22,True,19
+188,Indigo Store,4.28,Indore,Madhya Pradesh,India,2017-08-03,False,10
+189,Pioneer Mart,4.66,Chicago,Illinois,USA,2016-12-24,True,12
+190,Nimbus Wholesale,4.01,Bhopal,Madhya Pradesh,India,2019-09-03,False,12
+191,Onyx Enterprises,3.93,Manchester,Manchester,UK,2019-05-24,False,14
+192,Meadow Store,4.74,Austin,Texas,USA,2017-11-25,True,11
+193,Sunrise Store,3.39,Indore,Madhya Pradesh,India,2017-08-08,True,11
+194,Urban Wholesale,4.83,Surat,Gujarat,India,2024-08-13,False,13
+195,Ridge Brands,4.08,Seattle,Washington,USA,2019-08-13,True,26
+196,Diamond Online,4.2,Lucknow,Uttar Pradesh,India,2023-12-21,True,21
+197,Nimbus Traders,4.71,Chandigarh,Chandigarh,India,2020-09-24,True,14
+198,Galaxy Brands,4.51,Surat,Gujarat,India,2015-07-12,True,12
+199,Vortex Distributors,3.62,London,London,UK,2025-05-29,False,20
+200,Topaz Mart,3.86,Bangalore,Karnataka,India,2023-09-16,False,14
+201,Prime Enterprises,4.23,Manchester,Manchester,UK,2025-02-03,True,18
+202,Apex Mart,4.59,Mumbai,Maharashtra,India,2024-08-24,False,11
+203,Jade Traders,4.39,New York,New York,USA,2023-11-03,True,13
+204,Granite Brands,4.22,Chandigarh,Chandigarh,India,2016-09-24,True,15
+205,Star Wholesale,4.03,Seattle,Washington,USA,2020-01-22,True,16
+206,Horizon Brands,4.94,Ahmedabad,Gujarat,India,2017-03-24,True,17
+207,Sunrise Supplies,4.16,Shenzhen,Guangdong,China,2019-03-06,True,15
+208,Orion Supplies,4.59,Toronto,Ontario,Canada,2015-08-12,True,20
+209,Metro Enterprises,4.14,Bhopal,Madhya Pradesh,India,2018-12-12,True,17
+210,Pinnacle Online,3.66,Shenzhen,Guangdong,China,2025-04-06,True,15
+211,Harbor Mart,3.43,Delhi,Delhi,India,2017-10-05,True,19
+212,Diamond Enterprises,4.34,Hyderabad,Telangana,India,2023-03-02,False,22
+213,Nimbus Trading Co,4.5,Chandigarh,Chandigarh,India,2019-09-27,True,16
+214,Topaz Online,4.79,Chicago,Illinois,USA,2019-05-29,True,16
+215,Quartz Trading Co,4.17,Austin,Texas,USA,2024-12-20,False,18
+216,Harbor Online,4.09,Bhopal,Madhya Pradesh,India,2025-05-14,False,16
+217,Onyx Hub,4.32,Pune,Maharashtra,India,2020-10-15,False,13
+218,Golden Store,3.76,New York,New York,USA,2022-06-25,True,12
+219,Global Hub,4.31,Toronto,Ontario,Canada,2016-08-11,False,24
+220,Star Brands,4.31,London,London,UK,2018-02-02,True,12
+221,Nova Mart,4.16,Ahmedabad,Gujarat,India,2025-02-01,True,17
+222,Pure Distributors,4.18,Jaipur,Rajasthan,India,2021-01-12,False,19
+223,Falcon Enterprises,4.81,Chicago,Illinois,USA,2020-08-24,False,23
+224,Metro Wholesale,4.32,Chennai,Tamil Nadu,India,2022-10-16,False,20
+225,Horizon Exports,4.07,Shenzhen,Guangdong,China,2015-08-06,False,13
+226,Vertex Wholesale,3.56,Kolkata,West Bengal,India,2021-01-31,True,17
+227,Pure Trading Co,3.65,Bhopal,Madhya Pradesh,India,2020-03-27,False,20
+228,Granite Retail,4.41,Chandigarh,Chandigarh,India,2023-11-18,True,19
+229,Granite Wholesale,3.87,Kolkata,West Bengal,India,2016-08-21,True,21
+230,Crest Exports,4.08,Toronto,Ontario,Canada,2025-01-02,True,19
+231,Topaz Marketplace,4.25,Mumbai,Maharashtra,India,2015-11-01,True,13
+232,Platinum Retail,4.82,Indore,Madhya Pradesh,India,2016-12-07,False,8
+233,Zenith Supplies,4.61,Nagpur,Maharashtra,India,2021-03-13,True,18
+234,Granite Trading Co,4.27,Indore,Madhya Pradesh,India,2022-01-12,True,14
+235,Ridge Mart,4.8,Shanghai,Shanghai,China,2017-06-13,True,14
+236,Metro Store,4.55,New York,New York,USA,2016-04-01,True,12
+237,Star Retail,3.51,Bhopal,Madhya Pradesh,India,2024-04-09,True,15
+238,Pure Brands,4.78,Indore,Madhya Pradesh,India,2017-07-25,True,18
+239,Bright Hub,4.28,Manchester,Manchester,UK,2021-03-11,False,14
+240,Pioneer Marketplace,3.33,Chandigarh,Chandigarh,India,2021-06-14,True,15
+241,Bluebird Wholesale,4.59,Chicago,Illinois,USA,2019-05-14,True,19
+242,Meadow Brands,4.33,Seattle,Washington,USA,2021-01-29,False,21
+243,Falcon Brands,4.19,Mumbai,Maharashtra,India,2020-06-11,True,21
+244,Pioneer Hub,4.52,Bhopal,Madhya Pradesh,India,2024-09-25,True,9
+245,Royal Retail,4.2,Chandigarh,Chandigarh,India,2017-02-16,True,14
+246,Maple Distributors,4.36,Jaipur,Rajasthan,India,2022-06-17,True,18
+247,Diamond Distributors,4.15,Kolkata,West Bengal,India,2017-06-26,True,15
+248,Topaz Wholesale,4.17,Lucknow,Uttar Pradesh,India,2019-02-14,True,16
+249,Topaz Hub,3.76,Jaipur,Rajasthan,India,2021-12-30,True,9
+250,Elite Hub,4.4,Bhopal,Madhya Pradesh,India,2018-02-15,True,17
+251,Summit Distributors,5.0,Bangalore,Karnataka,India,2018-04-17,False,13
+252,Jade Brands,4.07,Ahmedabad,Gujarat,India,2022-10-31,True,10
+253,Topaz Retail,3.87,Delhi,Delhi,India,2015-10-03,True,11
+254,Bluebird Marketplace,3.98,Ahmedabad,Gujarat,India,2019-10-10,True,16
+255,Platinum Brands,3.63,Chennai,Tamil Nadu,India,2025-05-26,True,12
+256,Diamond Exports,4.12,Hyderabad,Telangana,India,2025-05-17,True,16
+257,Jade Distributors,4.16,Jaipur,Rajasthan,India,2015-10-06,True,14
+258,Ridge Marketplace,4.22,Pune,Maharashtra,India,2017-03-21,True,20
+259,Amber Traders,4.54,Shanghai,Shanghai,China,2017-10-05,True,16
+260,Bluebird Store,3.95,Toronto,Ontario,Canada,2024-09-20,True,13
+261,Cobalt Wholesale,3.98,Seattle,Washington,USA,2024-03-04,True,13
+262,Amber Mart,3.71,Indore,Madhya Pradesh,India,2024-02-27,True,20
+263,Echo Mart,3.95,Bangalore,Karnataka,India,2018-11-06,True,15
+264,Indigo Supplies,3.32,Hyderabad,Telangana,India,2016-08-23,True,10
+265,Cobalt Marketplace,4.54,Surat,Gujarat,India,2023-09-07,True,17
+266,Meadow Supplies,3.8,Hyderabad,Telangana,India,2022-04-30,False,11
+267,Coastal Trading Co,3.81,Delhi,Delhi,India,2021-05-15,True,21
+268,Nimbus Distributors,4.23,Bhopal,Madhya Pradesh,India,2025-04-13,True,19
+269,Granite Hub,3.88,Bangalore,Karnataka,India,2021-10-23,True,10
+270,Highland Brands,3.84,New York,New York,USA,2015-01-30,True,11
+271,Amber Enterprises,3.78,Chandigarh,Chandigarh,India,2023-07-06,True,16
+272,Pinnacle Brands,3.94,Bhopal,Madhya Pradesh,India,2018-02-12,True,14
+273,Vortex Supplies,4.29,Jaipur,Rajasthan,India,2021-11-28,True,17
+274,Jade Online,4.56,Chicago,Illinois,USA,2024-10-11,True,20
+275,Spark Distributors,3.85,Chandigarh,Chandigarh,India,2016-05-25,True,22
+276,Falcon Store,4.2,Ahmedabad,Gujarat,India,2016-03-15,True,13
+277,Global Supplies,4.02,Chandigarh,Chandigarh,India,2016-02-12,True,21
+278,Meadow Marketplace,4.83,Chandigarh,Chandigarh,India,2020-10-05,True,8
+279,Bluebird Online,4.76,Manchester,Manchester,UK,2017-11-02,True,19
+280,Royal Online,3.68,Lucknow,Uttar Pradesh,India,2021-04-19,True,16
+281,Coastal Supplies,4.21,Kolkata,West Bengal,India,2022-06-22,True,15
+282,Pure Store,4.25,Jaipur,Rajasthan,India,2017-02-13,True,16
+283,Harbor Retail,4.02,Austin,Texas,USA,2021-08-09,True,18
+284,Prime Traders,3.95,Los Angeles,California,USA,2017-10-01,True,16
+285,Quartz Wholesale,3.87,Ahmedabad,Gujarat,India,2020-02-02,True,21
+286,Harbor Supplies,3.98,New York,New York,USA,2024-06-05,False,15
+287,Indigo Online,3.2,Ahmedabad,Gujarat,India,2023-10-24,True,8
+288,Amber Online,4.47,London,London,UK,2015-12-18,False,13
+289,Highland Online,4.36,Chandigarh,Chandigarh,India,2019-05-31,True,12
+290,Silver Exports,4.17,Chicago,Illinois,USA,2017-11-18,False,16
+291,Spark Store,3.91,Chicago,Illinois,USA,2015-01-14,False,16
+292,Metro Traders,3.99,Jaipur,Rajasthan,India,2023-01-12,True,21
+293,Prime Mart,5.0,Shanghai,Shanghai,China,2021-08-20,False,17
+294,Platinum Store,4.85,Shanghai,Shanghai,China,2017-09-23,True,23
+295,Crest Supplies,3.97,Shanghai,Shanghai,China,2022-09-20,True,18
+296,Prime Store,3.8,Los Angeles,California,USA,2020-09-29,True,10
+297,Highland Enterprises,4.02,Ahmedabad,Gujarat,India,2019-06-15,True,12
+298,Sunrise Exports,4.08,Surat,Gujarat,India,2015-02-06,True,13
+299,Sunrise Marketplace,3.74,Chicago,Illinois,USA,2015-10-14,True,18
+300,Platinum Online,4.31,Surat,Gujarat,India,2024-03-13,True,12
+301,Pure Enterprises,4.14,Chandigarh,Chandigarh,India,2024-05-31,True,19
+302,Platinum Traders,4.04,Delhi,Delhi,India,2020-09-06,True,15
+303,Cedar Online,3.96,Bangalore,Karnataka,India,2023-09-10,True,16
+304,Cobalt Retail,4.5,Bangalore,Karnataka,India,2021-01-24,True,18
+305,Horizon Supplies,3.91,Chennai,Tamil Nadu,India,2016-07-17,True,16
+306,Zenith Traders,5.0,Seattle,Washington,USA,2016-04-29,True,15
+307,Crown Trading Co,4.27,Ahmedabad,Gujarat,India,2018-03-18,True,12
+308,Ridge Supplies,4.24,Toronto,Ontario,Canada,2024-05-12,True,15
+309,Pinnacle Wholesale,4.4,Austin,Texas,USA,2023-04-17,True,15
+310,Zenith Marketplace,4.83,Chandigarh,Chandigarh,India,2023-12-19,False,14
+311,Onyx Traders,3.96,Austin,Texas,USA,2024-05-12,True,17
+312,Urban Store,4.44,Toronto,Ontario,Canada,2017-03-10,True,9
+313,Harbor Traders,4.42,Manchester,Manchester,UK,2017-08-07,True,20
+314,Golden Exports,4.61,Pune,Maharashtra,India,2016-01-27,True,12
+315,Nova Exports,4.09,Austin,Texas,USA,2023-02-15,True,15
+316,Indigo Hub,4.58,Surat,Gujarat,India,2024-03-17,False,22
+317,Echo Marketplace,3.93,Chandigarh,Chandigarh,India,2019-03-26,True,12
+318,Horizon Traders,3.31,Manchester,Manchester,UK,2021-06-18,True,13
+319,Golden Traders,3.57,Delhi,Delhi,India,2016-08-10,True,15
+320,Spark Trading Co,4.21,Chandigarh,Chandigarh,India,2024-09-07,False,17
+321,Star Online,4.56,Chicago,Illinois,USA,2024-01-02,True,13
+322,Vivid Marketplace,4.24,Bangalore,Karnataka,India,2025-03-02,True,17
+323,Bluebird Supplies,4.27,Jaipur,Rajasthan,India,2023-06-12,True,27
+324,Spark Marketplace,4.43,Manchester,Manchester,UK,2024-03-06,True,7
+325,Royal Marketplace,4.4,Delhi,Delhi,India,2015-04-05,True,22
+326,Star Traders,4.7,Bhopal,Madhya Pradesh,India,2022-09-02,True,18
+327,Granite Exports,4.01,New York,New York,USA,2018-06-17,False,22
+328,Nova Brands,4.36,New York,New York,USA,2024-09-10,True,24
+329,Topaz Trading Co,4.8,Indore,Madhya Pradesh,India,2023-05-10,True,14
+330,Diamond Traders,4.36,Delhi,Delhi,India,2023-12-31,False,18
+331,Elite Distributors,4.71,Lucknow,Uttar Pradesh,India,2023-06-12,True,21
+332,Jade Wholesale,4.02,Hyderabad,Telangana,India,2017-10-11,True,17
+333,Sunrise Brands,4.59,Los Angeles,California,USA,2023-03-15,True,10
+334,Diamond Wholesale,4.59,Chicago,Illinois,USA,2016-02-16,True,13
+335,Echo Online,3.55,Delhi,Delhi,India,2024-01-31,True,14
+336,Bluebird Brands,4.31,Toronto,Ontario,Canada,2023-12-11,True,18
+337,Harbor Wholesale,4.27,Austin,Texas,USA,2017-04-26,True,25
+338,Crown Online,4.53,Bangalore,Karnataka,India,2023-07-04,True,19
+339,Lumen Hub,4.27,Hyderabad,Telangana,India,2019-10-17,True,21
+340,Star Exports,5.0,Chennai,Tamil Nadu,India,2018-03-06,True,17
+341,Galaxy Exports,4.91,Surat,Gujarat,India,2023-04-14,True,19
+342,Global Online,4.44,Jaipur,Rajasthan,India,2017-05-15,False,13
+343,Prime Marketplace,4.3,Chicago,Illinois,USA,2015-04-01,True,18
+344,Vertex Store,3.74,Los Angeles,California,USA,2017-01-04,True,15
+345,Crest Marketplace,4.27,Toronto,Ontario,Canada,2018-06-02,True,16
+346,Star Hub,4.24,Manchester,Manchester,UK,2024-01-01,False,9
+347,Platinum Distributors,5.0,Chennai,Tamil Nadu,India,2025-01-26,True,17
+348,Anchor Wholesale,4.41,Lucknow,Uttar Pradesh,India,2017-11-27,True,15
+349,Vivid Hub,4.63,Chandigarh,Chandigarh,India,2021-09-06,True,14
+350,Meadow Wholesale,3.97,Kolkata,West Bengal,India,2019-03-01,True,9
+351,Amber Supplies,4.54,Ahmedabad,Gujarat,India,2025-03-21,True,13
+352,Maple Brands,3.27,Indore,Madhya Pradesh,India,2020-08-01,False,20
+353,Horizon Online,4.71,London,London,UK,2024-10-12,True,14
+354,Crest Distributors,3.87,Delhi,Delhi,India,2016-03-14,True,12
+355,Lumen Enterprises,3.75,Hyderabad,Telangana,India,2025-02-08,True,16
+356,Platinum Supplies,4.14,Bangalore,Karnataka,India,2016-11-10,True,14
+357,Pure Hub,4.52,Jaipur,Rajasthan,India,2025-01-09,True,15
+358,Vivid Brands,4.14,Manchester,Manchester,UK,2017-10-06,True,18
+359,Anchor Retail,3.79,Shenzhen,Guangdong,China,2016-02-17,True,22
+360,Echo Brands,4.41,Austin,Texas,USA,2019-07-12,False,15
+361,Metro Exports,3.88,Surat,Gujarat,India,2022-08-03,True,15
+362,Silver Traders,4.13,Bangalore,Karnataka,India,2018-04-08,False,10
+363,Echo Exports,3.93,Toronto,Ontario,Canada,2021-04-25,True,13
+364,Golden Enterprises,4.26,Hyderabad,Telangana,India,2020-04-29,True,17
+365,Zenith Retail,4.15,Shenzhen,Guangdong,China,2019-01-05,True,19
+366,Vivid Supplies,4.26,Delhi,Delhi,India,2021-01-02,True,18
+367,Nova Distributors,5.0,Delhi,Delhi,India,2017-08-26,True,16
+368,Silver Enterprises,3.76,Nagpur,Maharashtra,India,2022-05-20,True,13
+369,Royal Enterprises,4.76,Ahmedabad,Gujarat,India,2015-01-07,True,13
+370,Maple Marketplace,3.14,Pune,Maharashtra,India,2024-08-21,True,16
+371,Crest Enterprises,3.73,Manchester,Manchester,UK,2020-08-10,True,15
+372,Elite Online,4.28,Ahmedabad,Gujarat,India,2022-06-29,True,20
+373,Nimbus Retail,4.14,Jaipur,Rajasthan,India,2022-09-23,False,15
+374,Anchor Enterprises,4.41,Chandigarh,Chandigarh,India,2021-12-26,True,17
+375,Golden Distributors,4.06,Bangalore,Karnataka,India,2018-10-17,True,15
+376,Maple Hub,4.17,Seattle,Washington,USA,2015-09-24,True,19
+377,Coastal Marketplace,4.16,New York,New York,USA,2021-12-01,True,20
+378,Bluebird Hub,4.21,Surat,Gujarat,India,2018-06-10,True,15
+379,Cedar Store,4.24,Manchester,Manchester,UK,2018-04-09,True,14
+380,Meadow Hub,4.15,Mumbai,Maharashtra,India,2023-10-31,True,16
+381,Jade Exports,4.06,Manchester,Manchester,UK,2022-06-30,True,11
+382,Ridge Exports,4.11,Delhi,Delhi,India,2018-02-16,True,20
+383,Nova Supplies,4.29,New York,New York,USA,2018-03-22,True,20
+384,Coastal Mart,4.3,Ahmedabad,Gujarat,India,2019-04-03,True,22
+385,Elite Brands,3.94,London,London,UK,2019-03-11,True,15
+386,Quartz Supplies,3.83,Toronto,Ontario,Canada,2018-01-29,False,13
+387,Cobalt Hub,3.53,Manchester,Manchester,UK,2016-04-29,True,10
+388,Echo Traders,4.91,Chennai,Tamil Nadu,India,2019-05-19,False,19
+389,Lumen Retail,3.7,London,London,UK,2024-10-17,False,13
+390,Golden Retail,3.87,Surat,Gujarat,India,2022-01-20,True,16
+391,Highland Exports,4.5,Seattle,Washington,USA,2024-05-27,True,21
+392,Vivid Exports,3.63,Chennai,Tamil Nadu,India,2021-05-30,True,11
+393,Royal Mart,3.5,Bhopal,Madhya Pradesh,India,2018-02-18,True,15
+394,Anchor Distributors,3.98,Chennai,Tamil Nadu,India,2020-09-15,False,13
+395,Vertex Enterprises,4.59,Los Angeles,California,USA,2015-01-02,True,25
+396,Harbor Distributors,4.19,Toronto,Ontario,Canada,2017-12-27,True,14
+397,Cedar Retail,5.0,Bangalore,Karnataka,India,2019-06-24,True,16
+398,Anchor Traders,4.47,Jaipur,Rajasthan,India,2021-01-15,True,18
+399,Onyx Brands,3.68,Chandigarh,Chandigarh,India,2021-10-26,True,17
+400,Echo Distributors,4.24,Jaipur,Rajasthan,India,2019-11-04,True,17
+401,Vortex Trading Co,3.55,Hyderabad,Telangana,India,2019-08-09,True,19
+402,Vortex Mart,4.42,Lucknow,Uttar Pradesh,India,2017-03-23,True,19
+403,Granite Traders,4.01,London,London,UK,2019-12-06,True,12
+404,Crown Traders,4.41,Chennai,Tamil Nadu,India,2024-05-21,True,18
+405,Maple Online,4.85,Ahmedabad,Gujarat,India,2023-04-17,True,17
+406,Star Marketplace,4.83,Nagpur,Maharashtra,India,2016-10-07,True,18
+407,Spark Retail,4.14,Bhopal,Madhya Pradesh,India,2015-11-19,True,18
+408,Highland Mart,4.52,Shenzhen,Guangdong,China,2020-05-14,True,10
+409,Golden Mart,4.06,Chandigarh,Chandigarh,India,2021-08-04,True,19
+410,Highland Trading Co,4.28,Nagpur,Maharashtra,India,2018-06-29,True,16
+411,Coastal Retail,3.59,London,London,UK,2023-07-11,True,22
+412,Crown Hub,3.88,Indore,Madhya Pradesh,India,2022-10-28,True,11
+413,Bluebird Retail,4.43,Chandigarh,Chandigarh,India,2022-01-03,True,20
+414,Vertex Hub,3.5,Lucknow,Uttar Pradesh,India,2017-05-04,True,15
+415,Metro Distributors,4.24,Toronto,Ontario,Canada,2017-01-27,True,12
+416,Horizon Enterprises,4.27,Toronto,Ontario,Canada,2015-04-03,True,20
+417,Elite Supplies,4.44,Chicago,Illinois,USA,2017-07-20,True,19
+418,Bluebird Enterprises,3.59,Pune,Maharashtra,India,2019-12-13,True,19
+419,Vivid Retail,3.52,Mumbai,Maharashtra,India,2023-11-07,True,16
+420,Golden Supplies,4.59,Pune,Maharashtra,India,2015-10-05,True,16
+421,Orion Online,4.27,Nagpur,Maharashtra,India,2019-04-26,True,19
+422,Metro Marketplace,4.07,Los Angeles,California,USA,2021-07-23,True,14
+423,Summit Online,3.58,Delhi,Delhi,India,2017-01-09,True,11
+424,Silver Brands,4.04,Indore,Madhya Pradesh,India,2022-04-02,False,11
+425,Falcon Distributors,3.76,Hyderabad,Telangana,India,2020-02-24,True,17
+426,Vortex Brands,4.57,Austin,Texas,USA,2017-07-17,True,22
+427,Harbor Exports,3.67,Seattle,Washington,USA,2021-10-31,True,15
+428,Pinnacle Store,4.11,Lucknow,Uttar Pradesh,India,2015-01-22,True,17
+429,Lumen Brands,4.53,Chandigarh,Chandigarh,India,2022-10-27,False,21
+430,Silver Distributors,4.45,Toronto,Ontario,Canada,2023-01-08,True,16
+431,Falcon Traders,4.02,Manchester,Manchester,UK,2016-02-10,True,14
+432,Harbor Trading Co,4.45,Bhopal,Madhya Pradesh,India,2019-06-06,True,15
+433,Nimbus Supplies,4.53,Lucknow,Uttar Pradesh,India,2016-10-31,True,19
+434,Quartz Retail,4.25,Bhopal,Madhya Pradesh,India,2024-12-23,True,15
+435,Coastal Traders,4.38,Surat,Gujarat,India,2020-05-24,True,18
+436,Galaxy Mart,4.11,Seattle,Washington,USA,2015-07-11,False,14
+437,Crown Supplies,4.65,Chennai,Tamil Nadu,India,2017-08-05,False,15
+438,Vortex Marketplace,4.17,Jaipur,Rajasthan,India,2023-11-02,False,10
+439,Spark Exports,3.64,Manchester,Manchester,UK,2019-10-03,True,22
+440,Zenith Distributors,4.4,Toronto,Ontario,Canada,2023-05-07,True,17
+441,Sunrise Enterprises,3.78,Nagpur,Maharashtra,India,2021-12-14,True,17
+442,Echo Retail,4.71,Chennai,Tamil Nadu,India,2025-04-15,True,18
+443,Quartz Distributors,4.37,Bangalore,Karnataka,India,2021-03-15,True,16
+444,Falcon Retail,3.43,Toronto,Ontario,Canada,2024-11-22,True,18
+445,Vortex Retail,4.55,Chennai,Tamil Nadu,India,2024-04-13,True,14
+446,Golden Brands,4.31,Manchester,Manchester,UK,2021-05-19,True,22
+447,Golden Wholesale,4.49,Bhopal,Madhya Pradesh,India,2022-06-29,True,13
+448,Urban Supplies,4.22,Jaipur,Rajasthan,India,2020-04-04,True,9
+449,Crown Distributors,4.69,Los Angeles,California,USA,2023-08-26,False,13
+450,Crown Store,3.93,Bhopal,Madhya Pradesh,India,2020-09-15,True,15
+451,Star Trading Co,4.57,Manchester,Manchester,UK,2024-05-05,True,14
+452,Sunrise Mart,4.33,Manchester,Manchester,UK,2022-09-29,False,15
+453,Pioneer Supplies,3.53,Surat,Gujarat,India,2019-12-11,True,20
+454,Anchor Exports,3.5,Jaipur,Rajasthan,India,2017-09-12,True,13
+455,Galaxy Trading Co,4.08,Ahmedabad,Gujarat,India,2017-07-29,True,11
+456,Cedar Hub,3.88,Manchester,Manchester,UK,2021-08-22,True,23
+457,Apex Wholesale,3.43,Shanghai,Shanghai,China,2022-12-23,True,9
+458,Echo Wholesale,3.72,Mumbai,Maharashtra,India,2020-06-06,True,19
+459,Bluebird Distributors,4.13,Surat,Gujarat,India,2021-07-12,True,19
+460,Vortex Online,3.87,Pune,Maharashtra,India,2017-11-10,False,13
+461,Highland Traders,5.0,Shenzhen,Guangdong,China,2015-10-22,False,16
+462,Cedar Trading Co,3.93,Bhopal,Madhya Pradesh,India,2017-12-22,True,20
+463,Zenith Exports,4.67,Bangalore,Karnataka,India,2017-10-30,False,10
+464,Pinnacle Trading Co,4.85,Lucknow,Uttar Pradesh,India,2018-05-01,True,23
+465,Orion Enterprises,3.99,Kolkata,West Bengal,India,2020-08-16,True,15
+466,Ridge Enterprises,3.96,Jaipur,Rajasthan,India,2016-06-10,True,15
+467,Topaz Brands,4.0,Toronto,Ontario,Canada,2017-05-29,True,10
+468,Royal Supplies,4.13,Bangalore,Karnataka,India,2022-03-24,False,18
+469,Nova Traders,4.05,London,London,UK,2022-05-11,False,11
+470,Ridge Trading Co,3.73,London,London,UK,2015-09-02,True,13
+471,Onyx Retail,4.34,Indore,Madhya Pradesh,India,2019-03-31,True,19
+472,Ridge Online,4.05,Chandigarh,Chandigarh,India,2020-08-26,True,14
+473,Horizon Retail,5.0,Los Angeles,California,USA,2019-05-01,True,17
+474,Pure Exports,4.58,Chandigarh,Chandigarh,India,2017-02-25,True,16
+475,Golden Online,4.05,Bangalore,Karnataka,India,2019-05-18,True,17
+476,Pinnacle Marketplace,4.43,Los Angeles,California,USA,2024-06-04,True,15
+477,Highland Distributors,4.42,Pune,Maharashtra,India,2021-01-30,False,15
+478,Summit Supplies,4.63,Surat,Gujarat,India,2022-03-30,True,11
+479,Orion Trading Co,3.5,London,London,UK,2023-12-04,True,16
+480,Elite Exports,3.7,Manchester,Manchester,UK,2022-12-22,True,15
+481,Ridge Hub,3.86,Manchester,Manchester,UK,2018-12-17,True,10
+482,Pure Traders,4.2,Chennai,Tamil Nadu,India,2015-01-23,True,10
+483,Nimbus Enterprises,2.81,Seattle,Washington,USA,2018-08-31,True,17
+484,Cedar Enterprises,3.85,Nagpur,Maharashtra,India,2022-11-06,True,12
+485,Zenith Trading Co,4.73,Austin,Texas,USA,2023-11-21,False,11
+486,Lumen Supplies,3.75,Indore,Madhya Pradesh,India,2024-12-05,True,20
+487,Pinnacle Traders,4.3,Lucknow,Uttar Pradesh,India,2019-05-13,True,20
+488,Galaxy Distributors,4.32,London,London,UK,2022-10-14,True,20
+489,Star Mart,4.36,Mumbai,Maharashtra,India,2020-09-08,False,16
+490,Pioneer Enterprises,4.49,Ahmedabad,Gujarat,India,2021-04-13,False,13
+491,Nova Hub,4.6,Bangalore,Karnataka,India,2017-04-18,True,19
+492,Galaxy Supplies,4.81,Hyderabad,Telangana,India,2017-04-14,True,12
+493,Apex Brands,4.05,Chicago,Illinois,USA,2019-07-16,True,22
+494,Jade Marketplace,3.87,Lucknow,Uttar Pradesh,India,2015-04-21,True,21
+495,Royal Hub,4.37,Chennai,Tamil Nadu,India,2018-07-02,True,12
+496,Bright Exports,4.36,Shenzhen,Guangdong,China,2022-01-27,True,16
+497,Quartz Mart,4.53,Chandigarh,Chandigarh,India,2019-03-19,True,22
+498,Vortex Store,3.6,Chandigarh,Chandigarh,India,2016-09-19,False,21
+499,Anchor Mart,4.5,Toronto,Ontario,Canada,2019-11-13,True,17
+500,Platinum Hub,3.66,Surat,Gujarat,India,2016-04-30,True,16
